@@ -1,0 +1,23 @@
+*{
+	margin: 0 px;
+	padding: 0 px;
+}
+
+html, body{
+	height: 100%;
+	background-color: grey;
+}
+
+p{
+	border: 2px solid blue;
+	padding: 5px;
+}
+
+a{
+	text-decoration: none;
+	text-weight: bold;
+}
+
+a:hover{
+	color: darkblue;
+}
